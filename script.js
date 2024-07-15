@@ -34,16 +34,16 @@ icon.onclick = function(){
         icon.src = "img/sun.png"
         sosmed1.src = "img/instagramdark.svg"
         sosmed2.src = "img/linkedindark.svg"
-        sosmed3.src = "img/tiktokdark.svg"
-        sosmed4.src = "img/githubdark.svg"
+        sosmed3.src = "img/githubdark.svg"
+        sosmed4.src = "img/tiktokdark.svg"
         sosmed5.src = "img/spotifydark.svg"
     }
     else{
         icon.src = "img/moon.png"
         sosmed1.src = "img/instagram.svg"
         sosmed2.src = "img/linkedin.svg"
-        sosmed3.src = "img/tiktok.svg"
-        sosmed4.src = "img/github.svg"
+        sosmed3.src = "img/github.svg"
+        sosmed4.src = "img/tiktok.svg"
         sosmed5.src = "img/spotify.svg"
     }
 }
